@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium&family=Poppins:ital,wght@0,200;1,200&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.App{
+    min-height: 100vh;
+    display:flex;
+    background-color: #282828;
+    color:white;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,1)), url('assets/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: "Oxanium";
+}
+
+#hidden{
+    color:white;
+    text-decoration: none;
+}
+
+#hided  {
+    color:antiquewhite;
+    text-decoration:none;
+
+};
