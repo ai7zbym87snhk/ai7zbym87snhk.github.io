@@ -29,7 +29,7 @@ const Header = () => {
         <Flex align="center" justify="space-between" bg="blue.500" py="4">
 
             <Box>
-               <a href="https://ie.nitk.ac.in/" target='blank'><img src='logo.png' alt="Website Logo" style={{ width: '100px', height: '100px' }} /></a>
+               <a href="https://ie.nitk.ac.in/" target='blank'><img src="	https://avatars.githubusercontent.com/u/12098528?s=200&v=4" alt="Website Logo" style={{ width: '100px', height: '100px' }} /></a>
 
             {/* Middle with text */}
             <Text color="white" fontSize="50px">Support is all you need</Text>
